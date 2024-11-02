@@ -11,9 +11,9 @@
     <a href="https://wwwNirmahanem.">Visit Example.com</a>
 </body>
 </html>
-<p>This is a paragraph of text.</p>
-<a href="https://www.example.com">Visit Example.com</a>
-<img src="image.jpg" alt="Description of image">
+<p>ممثلين توفاهم الله.</p>
+<a href="https://www.nermahanem.com">Visit Example.com</a>
+
 <ul>
 </ul>
 <ol>
@@ -22,11 +22,20 @@
     <tr>
     </tr>
 </table>
-<a href="https://www.example.com" target="_blank" title="Go to Example">Visit Example</a>
-<form action="/submit" method="post">
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name">
-    
+<a href="https://www.nermahanem.com" target="_blank" title="Go to Example">Visit Example</a>
+أشرف عبد الغفور
+سلوي العرابي
+  لبنى محمود
+شيرين الطحان
+مصطفى درويش
+محمد الأدنداني
+منحة زيتون
+كريمان
+أشرف مصيلحى
+نجاح سلام
+محمد فريد
+عثمان محمد علي
+طارق عبد العزيز  
     <label for="email">Email:</label>
     <input type="email" id="email" name="email">
     
@@ -42,19 +51,3 @@
 <body>
     <header>
         <h1>Welcome to My Website</h1>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <section id="about">
-        <h2>About Me</h2>
-        <p>This is a brief introduction about myself.</p>
-    </section>
-    
-    <section id="contact">
-        <h2
