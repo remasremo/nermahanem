@@ -20,14 +20,6 @@
 </ol>
 <table>
     <tr>
-        <th></th>اسم الممثل/ه</th>
-        <th>سنه</th>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-        <td>Data 3</td>
-        <td>Data 4</td>
     </tr>
 </table>
 <a href="https://www.example.com" target="_blank" title="Go to Example">Visit Example</a>
