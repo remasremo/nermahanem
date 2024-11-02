@@ -17,18 +17,13 @@
 <ul>
 </ul>
 <ol>
-    <li>First item</li>
-    <li>Second item</li>
-    <li>Third item</li>
 </ol>
 <table>
     <tr>
-        <th>Header 1</th>
-        <th>Header 2</th>
+        <th></th>اسم الممثل/ه</th>
+        <th>سنه</th>
     </tr>
     <tr>
-        <td>Data 1</td>
-        <td>Data 2</td>
     </tr>
     <tr>
         <td>Data 3</td>
