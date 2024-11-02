@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta nermahanim="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ممثلين قد توفاهم الله</title>
+    ممثلين قد توفاهم الله
 </head>
 <body>
     <h1>nirma hanemمرحبا بك في موقع</h1>
