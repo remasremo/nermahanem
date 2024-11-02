@@ -6,7 +6,7 @@
     <title>ممثلين قد توفاهم الله</title>
 </head>
 <body>
-    <h1>nirma hanemرحبا بك في موقع</h1>
+    <h1>nirma hanemمرحبا بك في موقع</h1>
     <p>سوف نتكلم عن ممثلين توفاهم الله.</p>
     <a href="https://wwwNirmahanem.">Visit Example.com</a>
 </body>
@@ -38,16 +38,14 @@
 طارق عبد العزيز  
     <label for="email">Email:</label>
     <input type="email" id="email" name="email">
-    
-    <input type="submit" value="Submit">
 </form>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Simple Web Page</title>
+    <title>nermahanem</title>
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>شكرا لزياره موقعنا</h1>
