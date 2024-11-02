@@ -11,16 +11,10 @@
     <a href="https://wwwNirmahanem.">Visit Example.com</a>
 </body>
 </html>
-<h1>This is a heading 1</h1>
-<h2>This is a heading 2</h2>
-<h3>This is a heading 3</h3>
 <p>This is a paragraph of text.</p>
 <a href="https://www.example.com">Visit Example.com</a>
 <img src="image.jpg" alt="Description of image">
 <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
 </ul>
 <ol>
     <li>First item</li>
